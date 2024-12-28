@@ -1,4 +1,4 @@
-How to run Solana-Raydium-Pumpfun-Sniper-Bot
+How to run Solana-Raydium-Pumpfun-Bump-Bot
 
 ## 1 Clone
 
